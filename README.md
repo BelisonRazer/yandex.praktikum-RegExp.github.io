@@ -1,6 +1,6 @@
-# https://belisonrazer.github.io/yandex.praktikum-RegExp/
+# https://belisonrazer.github.io/yandex.praktikum-RegExp.github.io/
 ======
 
 ## Project work 10
-**v0.0.1**
+**v0.0.8**
 
